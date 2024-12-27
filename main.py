@@ -1,6 +1,6 @@
 import sys 
 import os
-sys.path.append(os.path.abspath(r"D:\.olege\TicTacToe"))
+#sys.path.append(os.path.abspath(r"D:\.olege\TicTacToe")) #?
 from game import *
 
 def clear_screen():
